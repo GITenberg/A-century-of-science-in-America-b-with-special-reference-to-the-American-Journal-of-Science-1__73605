@@ -1,0 +1,47 @@
+_repo: A-century-of-science-in-America-b-with-special-reference-to-the-American-Journal-of-Science-1__73605
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Dana, Edward Salisbury
+    aliases:
+    - Dana, E. S. (Edward Salisbury)
+    - Dana, Edward S. (Edward Salisbury)
+    birthdate: 1849
+    deathdate: 1935
+    gutenberg_agent_id: '57099'
+    url: http://www.gutenberg.org/2009/agents/57099
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Salisbury_Dana
+  - agent_name: Barrell, Joseph
+    gutenberg_agent_id: '57138'
+    url: http://www.gutenberg.org/2009/agents/57138
+  - agent_name: Gregory, Herbert E.
+    gutenberg_agent_id: '57137'
+    url: http://www.gutenberg.org/2009/agents/57137
+  - agent_name: Schuchert, Charles
+    gutenberg_agent_id: '57136'
+    url: http://www.gutenberg.org/2009/agents/57136
+  - agent_name: Smith, George Otis
+    gutenberg_agent_id: '57139'
+    url: http://www.gutenberg.org/2009/agents/57139
+description: ''
+gutenberg_issued: '2024-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73605'
+language: en
+pgterms:marc904: https://archive.org/details/centuryofscience00danarich/page/n13/mode/2up
+pgterms:marc905: 20210702145129dana
+pgterms:marc906: '1918'
+pgterms:marc907: GB
+production_note: Richard Tonsing, Charlene Taylor, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bYale University Press, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A century of science in America : $b with special reference to the American
+  Journal of Science, 1818-1918'
+url: http://www.gutenberg.org/ebooks/73605
